@@ -11,4 +11,4 @@ Tugas ini merupakan implementasi komponen WebView pada aplikasi mobile berbasis 
 ## Repository
 
 ## Dokumentasi
-<img width="438" height="875" alt="f9765071-548e-472b-ae30-efd17639433c" src="https://github.com/user-attachments/assets/8cb65739-94a2-409c-b1cd-43044b311b09" />
+<img width="312" height="623" alt="image" src="https://github.com/user-attachments/assets/64ffdc42-d014-403f-8768-6d8793837623" />
