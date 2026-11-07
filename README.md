@@ -9,6 +9,7 @@ Tugas ini merupakan implementasi komponen WebView pada aplikasi mobile berbasis 
 </p>
 
 ## Repository
+App.tsx
 
 ## Dokumentasi
 <img width="312" height="623" alt="image" src="https://github.com/user-attachments/assets/64ffdc42-d014-403f-8768-6d8793837623" />
