@@ -1,6 +1,3 @@
-# Mobile Application Development
-Repository ini merupakan dokumentasi hasil pengerjaan praktikum **Pengembangan Aplikasi Mobile** yang mencakup implementasi teknologi WebView menggunakan dua pendekatan berbeda, yaitu MIT App Inventor dan React Native dengan arsitektur Fabric.
-
 ## Daftar Isi
 - [Session 2 - Prototype WebView MIT App Inventor](#session-2---prototype-webview-mit-app-inventor)
 - [Session 3 - WebView Implementation React Native Fabric](#session-3---webview-implementation-react-native-fabric)
