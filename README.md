@@ -60,9 +60,11 @@ Aplikasi ini dikembangkan untuk menampilkan website kampus atau website berita t
 
 ## 7. Dokumentasi dan Demo
 **Tampilan MIT App Inventor**
+
 <img width="310" height="605" alt="MIT App Inventor" src="https://github.com/user-attachments/assets/495a1367-f071-49eb-9173-f72603107649" />
 
 **Tampilan Aplikasi Mobile**
+
 <img width="331" height="609" alt="Mobile Application" src="https://github.com/user-attachments/assets/0073bb31-1909-44ec-afb7-6151c29967b9" />
 
 ---
@@ -133,6 +135,7 @@ Proyek ini bertujuan untuk memahami penerapan WebView menggunakan React Native m
 
 ## 7. Dokumentasi dan Demo
 **Tampilan Aplikasi Mobile**
+
 <img width="312" height="623" alt="React Native WebView" src="https://github.com/user-attachments/assets/64ffdc42-d014-403f-8768-6d8793837623" />
 
 ---
